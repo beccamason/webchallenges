@@ -48,10 +48,6 @@ a:hover {
   flex-wrap: wrap;
   justify-content: space-around;  
 }
-/* .social {
-  display: flex;
-  flex-wrap: nowrap;
-} */
 
 @media all and (max-width:1000px) {
   .flex-nav ul{
@@ -65,7 +61,6 @@ a:hover {
     width: 25%;
   }
 }
-
 
 @media all and (max-width:600px) {
   .flex-nav ul li{
